@@ -1,3 +1,9 @@
 "use strict";
-const course = 'next level web development';
-console.log(course);
+let courses = undefined;
+courses = 'something';
+// Primitive Types
+// string
+// number
+// boolean
+// null
+// undefined
